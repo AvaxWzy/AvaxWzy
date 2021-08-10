@@ -7,9 +7,7 @@ I'm currently having no complete projects and rest are pending.
 ### Friends 🥼
 1. Amadeus
 2. [Colderry](https://github.com/Colderry)
-<br>
 3. Dots
-<br>
 4. [Jay](github.comhttps://github.com/JDevelo)
 
 ### Contact Me 💬
