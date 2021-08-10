@@ -8,7 +8,7 @@ I'm currently having no complete projects and rest are pending.
 1. Amadeus
 2. [Colderry](https://github.com/Colderry)
 3. Dots
-4. [Jay](github.comhttps://github.com/JDevelo)
+4. [Jay](https://github.com/JDevelo)
 
 ### Contact Me 💬
 ❄️ Discord - AvaxWzy#5700
