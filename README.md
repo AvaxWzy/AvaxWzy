@@ -16,7 +16,7 @@ I'm currently having no complete projects and rest are pending.
 📧 Email - avaxwzy@gmail.com
 
 ### Condition ⚠️
-If you are reading are this, then follow me because yes.
+If you are reading this, then follow me because yes.
 
 ## Github Stats 
 ![AvaxWzy](https://github-readme-stats.vercel.app/api?username=avaxwzy&show_icons=true&theme=radical)
