@@ -5,7 +5,7 @@ Hey there 👋 I'm Avan Foster and I am a retard developer I guess? I like to ma
 I'm currently having no complete projects and rest are pending.
 
 ### Friends 🥼
-1. Amadeus
+1. [Amadeus](https://github.com/AmadeusWolf)
 2. [Colderry](https://github.com/Colderry)
 3. Dots
 4. [Jay](https://github.com/JDevelo)
